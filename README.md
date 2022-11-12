@@ -1,4 +1,4 @@
-# Sample Hardhat Project for Polygon Bootcamp Class 2022
+# Sample Hardhat Project for Polygon Bootcamp Class 2022 (Week 2 - SMART CONTRACT DEPLOYMENT)
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
